@@ -1,0 +1,11 @@
+P001,iPhone 13 Pro Max,25.5,10,Not Available
+P002,iPhone 14 Pro Max,30.9,100,Available
+P003,iPhone 11 Pro,17.5,5,Available
+P004,iPhone X,10.2,0,Not Available
+P005,Samsung Galaxy S22,25.5,10,Available
+P006,Samsung Galaxy Note 10,11.2,5,Available
+P009,iPhone Xs,2.4,1,Not Available
+P007,Macbook Pro 16,50.0,95,Not Available
+P008,Macbook Pro 15,35.0,90,available
+P010,Macbook Air M2,30.0,70,Available
+P011,iMac 2021 M1,29.0,89,Available
